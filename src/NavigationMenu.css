@@ -1,0 +1,26 @@
+.navigation-menu {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .navigation-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navigation-menu li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .navigation-menu a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .navigation-menu a:hover {
+    border-bottom: 2px solid #ff3366; /* Cor de esmalte rosa */
+  }
+  

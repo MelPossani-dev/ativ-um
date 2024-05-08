@@ -1,0 +1,25 @@
+.list-component {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.list-component h2 {
+  margin-bottom: 15px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.list li {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+/* ... existing styles ... */
+
+.list-item:hover {
+  background-color: #e60bb780; /* Background color on hover */
+}
